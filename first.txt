@@ -1,3 +1,5 @@
 Gitの練習をしていきます
 wakuwaku
 
+ * git add
+ * git commit
