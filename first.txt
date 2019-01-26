@@ -3,4 +3,5 @@ wakuwaku
 
  * git add
  * git commit
- * 
+ * 変更
+ * git status
