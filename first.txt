@@ -5,3 +5,4 @@ wakuwaku
  * git commit
  * 変更
  * git status
+ * git diff
